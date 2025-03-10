@@ -8,6 +8,6 @@ export default defineConfig({
     tailwindcss(),
 
   ],
-  base: '/travel-booking/',
+  base: '/pdf-generator-with-tripdocks/',
   
 })
